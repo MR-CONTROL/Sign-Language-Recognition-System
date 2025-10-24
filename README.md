@@ -16,12 +16,18 @@ This Model Achieves 97.98% Accuracy
 
 # DataSet Link
 Kaggle dataset in form of images of sign languages. 
+
 Link 
+
 ASL_Alphabets :- https://www.kaggle.com/datasets/debashishsau/aslamerican-sign-language-aplhabet-dataset 
+
 ASL_Digits :- https://www.kaggle.com/datasets/victoranthony/asl-digits-0-9
 
 # Future Scope
 Reverse mode: Convert text/speech into sign animations
+
 Add full-word gestures like "Hello", "Thanks"
+
 Deploy as a mobile app or website
+
 Add video call feature with live translation
