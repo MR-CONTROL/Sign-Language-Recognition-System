@@ -7,11 +7,17 @@ This project detects and translates sign language gestures (A–Z, 0–9) into r
 
 # ⚙️ Tech Stack
 Python
+
 OpenCV – for webcam video input
+
 MediaPipe – for hand detection and tracking
+
 Scikit-Learn – for training a classification model
+
 pyttsx3 / gTTS – for text-to-speech output
+
 Streamlit (optional) – for deployment interface
+
 This Model Achieves 97.98% Accuracy
 
 # DataSet Link
